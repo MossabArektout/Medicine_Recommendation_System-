@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:/Users/Mossab Arektout/Desktop/Medicine_Recommendation_System/env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}
